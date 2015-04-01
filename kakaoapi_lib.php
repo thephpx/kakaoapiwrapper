@@ -1,4 +1,11 @@
-<?php class kakaoapi{
+<?php
+
+/* 
+ * @package	PHP
+ * @author 	Faisal Ahmed <thephpx@gmail.com>
+ */
+
+class kakaoapi{
 
 	private $api_url;
 	private $redirect_uri;
